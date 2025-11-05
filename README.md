@@ -15,8 +15,6 @@
 
 ## 🚀 Current Focus
 
-### Open Source Projects
-
 * [Plaintext Commons](https://github.com/totocaster/plaintext-commons) — A file-native thinking system where plain Markdown files are the source of truth. Not apps that control your files, but files you control. Combines AI agents, fast indexing, and human-centered design.
 * [Arrowhead](https://github.com/totocaster/arrowhead) — Fast search and indexing for knowledge bases. Built in Rust with both full-text and semantic search capabilities. Features CLI/MCP integration for AI agents.
 
