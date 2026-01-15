@@ -8,6 +8,7 @@
 
 _Built in the AI era: LLMs write code, I write specs and think through problems._
 
+- 🥸 **[ralph-template](https://github.com/totocaster/ralph-template)** - Ralph Wiggum Loop technique template for Codex or Claude Code.
 - 🔍 **[arrowhead](https://github.com/totocaster/arrowhead)** — Fast Obsidian-aware search and discovery that makes AI agents your true knowledge assistant. Features both full-text and semantic search with CLI/MCP integration. Built in Rust.
 - 🐙 **[trmnl-hank-board](https://github.com/totocaster/trmnl-hank-board)** — A TRMNL e-ink display plugin for Hank the Octopus (my AI agentic assistant). Shows calendar, reminders, weather, and occasional mischief.
 - 🌱 **[ttvl.co](https://github.com/totocaster/ttvl.co)** — My public notebook of making — or hazy mirror of my brain — on the web. A digital garden built with Hugo.
