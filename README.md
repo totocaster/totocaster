@@ -6,7 +6,7 @@
 
 ## 🚀 Active Development
 
-_Built in the AI era: LLMs write code, I write specs and think through problems._
+_Built in the AI era: LLMs write code, I write specs and think through decisions._
 
 - 🥸 **[ralph-template](https://github.com/totocaster/ralph-template)** - Ralph Wiggum Loop technique template for Codex or Claude Code.
 - 🔍 **[arrowhead](https://github.com/totocaster/arrowhead)** — Fast Obsidian-aware search and discovery that makes AI agents your true knowledge assistant. Features both full-text and semantic search with CLI/MCP integration. Built in Rust.
