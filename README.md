@@ -10,6 +10,7 @@ _Built in the AI era: LLMs write code, I write specs and think through decisions
 
 - 🥸 **[ralph-template](https://github.com/totocaster/ralph-template)** - Ralph Wiggum Loop technique template for Codex or Claude Code.
 - 🔍 **[arrowhead](https://github.com/totocaster/arrowhead)** — Fast Obsidian-aware search and discovery that makes AI agents your true knowledge assistant. Features both full-text and semantic search with CLI/MCP integration. Built in Rust.
+- 🏋️ **[whoopy](https://github.com/totocaster/whoopy)** — Unofficial WHOOP data CLI that wraps OAuth + developer APIs so humans, automations, and agents can pull workouts, sleep, recovery, and strain metrics from the terminal. Built in Go.
 - 🐙 **[trmnl-hank-board](https://github.com/totocaster/trmnl-hank-board)** — A TRMNL e-ink display plugin for Hank the Octopus (my AI agentic assistant). Shows calendar, reminders, weather, and occasional mischief.
 - 🌱 **[ttvl.co](https://github.com/totocaster/ttvl.co)** — My public notebook of making — or hazy mirror of my brain — on the web. A digital garden built with Hugo.
 - 📄 **[plaintext-commons](https://github.com/totocaster/plaintext-commons)** — Working manifesto for keeping long-form knowledge in durable, human- and agent-friendly files. File over app, plain text over proprietary formats.
