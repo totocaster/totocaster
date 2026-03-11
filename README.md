@@ -17,6 +17,7 @@ _Built in the AI era: LLMs write code, I write specs and think through decisions
 - 📄 **[plaintext-commons](https://github.com/totocaster/plaintext-commons)** — Working manifesto for keeping long-form knowledge in durable, human- and agent-friendly files. File over app, plain text over proprietary formats.
 - 🌐 **[ptcms.org](https://github.com/totocaster/ptcms.org)** — Website for plaintextcommons.org. Hugo-based site advocating for plaintext-first knowledge systems. Hugo.
 - 🏷️ **[stamp](https://github.com/totocaster/stamp)** — Simple CLI tool for AI and automation use for naming notes in digital gardens. Supports fleeting, daily, project, voice, and analog note conventions. Go.
+- 🏗️ **[cli-app-go-template](https://github.com/totocaster/cli-app-go-template)** — Template for quickly iterating and creating CLI apps. Go.
 - 🐘 **[mastodon-hugo](https://github.com/totocaster/mastodon-hugo)** — Simple tool that archives Mastodon posts as Markdown files (for use in Hugo). Go.
 - 📸 **[toto.photo](https://github.com/totocaster/toto.photo)** — My photography portfolio website.
 - 🏥 **[trmnl-health-display](https://github.com/totocaster/trmnl-health-display)** — Custom host display for the TRMNL e-ink screen. Tailored to my personal health data and daily metrics. 
