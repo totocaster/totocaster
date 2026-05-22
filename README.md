@@ -14,6 +14,7 @@ _Built in the AI era: LLMs write code, I write specs and think through decisions
 - 🤸‍♀️ **[withingy](https://github.com/totocaster/withingy)** — Unofficial Withing CLI that for pulling workouts, body measurements,and other metrics from the terminal. Go.
 - ⏺️ **[tp7](https://github.com/totocaster/tp7)** — Unofficial CLI tool for humans and agents to control teenage engineering TP-7 field recorder. Rust.
 - ✅ **[things-cli-go](https://github.com/totocaster/things-cli-go)** – Things 3 CLI for managing tasks from the terminal. Go.
+- 💼 **[kanban-base-view-obsidian](https://github.com/totocaster/kanban-base-view-obsidian)** – A focused Kanban view for Obsidian Bases with draggable cards, keyboard reordering, note previews, and saved layouts.
 - ☑️ **[vault-tasks-obsidian](https://github.com/totocaster/vault-tasks-obsidian)** — Obsidian plugin that collects Markdown tasks from every note into a grouped sidebar view. TypeScript. See also its [CLI companion](https://github.com/totocaster/vault-tasks-obsidian-cli).
 - 🐙 **[trmnl-hank-board](https://github.com/totocaster/trmnl-hank-board)** — A TRMNL e-ink display plugin for Hank the Octopus (my AI agentic assistant). Shows calendar, reminders, weather, and occasional mischief.
 - 🌱 **[ttvl.co](https://github.com/totocaster/ttvl.co)** — My public notebook of making — or hazy mirror of my brain — on the web. A digital garden built with Hugo.
