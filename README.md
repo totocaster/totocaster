@@ -9,6 +9,7 @@
 _Built in the AI era: LLMs write code, I write specs and think through decisions._
 
 - 🔍 **[arrowhead](https://github.com/totocaster/arrowhead)** — Fast Obsidian-aware search and discovery that makes AI agents your true knowledge assistant. Features both full-text and semantic search with CLI/MCP integration. Built in Rust.
+- 📥 **[triage-obsidian](https://github.com/totocaster/triage-obsidian)** – Obsidian plugin for resurfacing unprocessed notes in a anki-style triage queue. TypeScript.
 - 📈 **[metrics-obsidian](https://github.com/totocaster/metrics-obsidian)** — File-first metrics and descrete data for Obsidian that keep `*.metrics.ndjson` as the source of truth in your vault. TypeScript.
 - 🏋️ **[whoopy](https://github.com/totocaster/whoopy)** — Unofficial WHOOP data CLI that wraps OAuth + developer APIs so humans, automations, and agents can pull workouts, sleep, recovery, and strain metrics from the terminal. Go.
 - 🤸‍♀️ **[withingy](https://github.com/totocaster/withingy)** — Unofficial Withing CLI that for pulling workouts, body measurements,and other metrics from the terminal. Go.
