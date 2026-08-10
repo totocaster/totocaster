@@ -13,6 +13,7 @@ _Built in the AI era: LLMs write code, I write specs and think through decisions
 - 📈 **[metrics-obsidian](https://github.com/totocaster/metrics-obsidian)** — File-first metrics and descrete data for Obsidian that keep `*.metrics.ndjson` as the source of truth in your vault. TypeScript.
 - 🏋️ **[whoopy](https://github.com/totocaster/whoopy)** — Unofficial WHOOP data CLI that wraps OAuth + developer APIs so humans, automations, and agents can pull workouts, sleep, recovery, and strain metrics from the terminal. Go.
 - 🤸‍♀️ **[withingy](https://github.com/totocaster/withingy)** — Unofficial Withing CLI that for pulling workouts, body measurements,and other metrics from the terminal. Go.
+- 🖥️ **[refmode](https://github.com/totocaster/refmode)** — Scriptable CLI tool for listing and switching the Apple display reference modes.
 - ⏺️ **[tp7](https://github.com/totocaster/tp7)** — Unofficial CLI tool for humans and agents to control teenage engineering TP-7 field recorder. Rust.
 - ✅ **[things-cli-go](https://github.com/totocaster/things-cli-go)** – Things 3 CLI for managing tasks from the terminal. Go.
 - 💼 **[kanban-base-view-obsidian](https://github.com/totocaster/kanban-base-view-obsidian)** – A focused Kanban view for Obsidian Bases with draggable cards, keyboard reordering, note previews, and saved layouts.
