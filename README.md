@@ -20,7 +20,7 @@ _Built in the AI era: LLMs write code, I write specs and think through decisions
 - ☑️ **[vault-tasks-obsidian](https://github.com/totocaster/vault-tasks-obsidian)** — Obsidian plugin that collects Markdown tasks from every note into a grouped sidebar view. TypeScript. See also its [CLI companion](https://github.com/totocaster/vault-tasks-obsidian-cli).
 - 🔌 **[patchcord](https://github.com/totocaster/patchcord)** — An agent-first CLI IDE-free CircuitPython development.
 - 🐙 **[trmnl-hank-board](https://github.com/totocaster/trmnl-hank-board)** — A TRMNL e-ink display plugin for Hank the Octopus (my AI agentic assistant). Shows calendar, reminders, weather, and occasional mischief.
-- 🌱 **[ttvl.co](https://github.com/totocaster/ttvl.co)** — My public notebook of making — or hazy mirror of my brain — on the web. A digital garden built with Hugo.
+- 🌱 **[ttvl.co](https://github.com/totocaster/ttvl.co)** — A public notebook of making and wandering curiosities.
 - 🥸 **[ralph-template](https://github.com/totocaster/ralph-template)** - Ralph Wiggum Loop technique template for Codex or Claude Code.
 - 📄 **[plaintext-commons](https://github.com/totocaster/plaintext-commons)** — Working manifesto for keeping long-form knowledge in durable, human- and agent-friendly files. File over app, plain text over proprietary formats.
 - 🌐 **[ptcms.org](https://github.com/totocaster/ptcms.org)** — Website for plaintextcommons.org. Hugo-based site advocating for plaintext-first knowledge systems. Hugo.
